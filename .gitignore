@@ -1,0 +1,22 @@
+/node_modules
+/dist
+/.Parcel-cache
+
+# Parcel
+-Dev build
+-Creats local server
+-HMR= Hot module Replacement
+-File watching Algorithm -written in c++
+-Image Optimization
+-Minification
+-Buidling
+-Compress
+-Consistent Hashing
+-Code splitting
+-Differential Buidling -To support older browsers
+-Diagnostic
+-Error Handling
+-Host App in HTTPS 
+-Tree Shaking- Removes unused code
+-Different Buidling for dev and prod
+- npx parcel build index.html
